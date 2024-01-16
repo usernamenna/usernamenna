@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Task Manager Web App
 - 🌱 I’m currently learning ASP.NET
 - 🐱‍💻 I'm interested in Data Science, ML and SWE
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/menna-afify-ab51471b8/) 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-afify-ab51471b8/) 
 
 
 
