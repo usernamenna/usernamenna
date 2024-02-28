@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm a Computer Science fresh grad from Ain Shams University
 - 🔭 I’m currently working on a Task Manager MVC App
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Data Engineering and ASP.NET
 - 🐱‍💻 I'm interested in Data Science, ML and SWE
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-afify-ab51471b8/) 
 
